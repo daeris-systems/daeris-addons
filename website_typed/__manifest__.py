@@ -6,7 +6,7 @@
     'author': "Daeris",
     'support': "https://www.daeris.com",
     'website': 'https://www.daeris.com',
-    'maintainer': 'daeris.iberia@gmail.com',
+    'maintainer': 'admin@daeris.com',
     'license': 'Other proprietary',
     'category': 'Website',
     'summary': "This module includes typed javascript library in website",
